@@ -272,5 +272,3 @@ Never write just "Python" without a qualifier as a fresher — adding "Scripting
 **Total: ~4 weeks of 1–2 hours/day**
 
 ---
-
-*Tailored for Arjun Vasavan — Embedded Systems Engineer*
